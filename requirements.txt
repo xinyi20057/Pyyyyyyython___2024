@@ -1,2 +1,2 @@
-pyinputplis
+pyinputplus
 requests
